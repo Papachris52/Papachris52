@@ -48,8 +48,8 @@ My efforts are deeply intertwined with the burgeoning field of AI, leveraging it
     Our mission at ValorIA is to **empower users in managing their intangible capital**: this includes helping to detect, protect, insure, and monetize crucial assets like patents, trademarks, copyrights, trade secrets, data, algorithms, and e-reputation. We operate with a strong commitment to ethical and advanced AI operations, prioritizing **GDPR compliance, maximum data confidentiality**, and proactive ethical reflection on the societal impacts of AI advice. ValorIA is designed to be a robust, transparent, and user-centric platform for navigating the complex world of intangible assets.
 
 * **📫 How to reach me:**
-    * You can connect with me on [Your LinkedIn Profile Link]
-    * Or drop me a line at [Your Professional Email Address]
+    * You can connect with me on www.linkedin.com/in/cboeraeve
+    * Or drop me a line at cboeraeve@law-right.com 
     * I'm always open to engaging discussions and cooperative problem-solving, especially when it involves the exciting potential of AI!
 
 * **😄 Pronouns:** He/Him
